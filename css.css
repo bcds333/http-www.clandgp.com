@@ -1,0 +1,24 @@
+h1 {
+	color:red;
+	font-family: 'Helvetica' ;
+	font-size: 45
+}
+
+
+#req h3 {
+	color:blue;
+	font-family: 'Arial';
+	font-size: 25
+}
+
+#reqh h2{
+	color:green;
+	font-family: 'Comic Sans MS';
+	font-size: 35
+}
+
+#background {
+	background: url("http://blogs-images.forbes.com/davidthier/files/2014/08/CoC_titlescreen_2013_1440_727_c1.jpg");
+	text-align: center
+}
+
